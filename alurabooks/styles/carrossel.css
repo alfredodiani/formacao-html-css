@@ -67,3 +67,11 @@
     font-weight: 700;
     text-decoration: none;
 }
+
+.descricao__rating {
+    display: flex;
+}
+
+.descricao__rating-estrela {
+    margin-right: 0.2em;
+}
