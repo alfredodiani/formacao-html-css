@@ -4,7 +4,7 @@ Repositório contendo três projetos práticos desenvolvidos durante o curso de 
 
 ---
 
-## 📋 Projetos
+## Projetos
 
 ### **Projeto 1 - Portfolio**
 
@@ -56,6 +56,7 @@ Uma plataforma de biblioteca digital desenvolvida com abordagem **Mobile First**
 - Media queries para tablets e desktop
 - Pseudo-classes CSS
 - Ajustes responsivos para diferentes tamanhos de tela
+- Seguindo especificação: [Biblioteca Mobile First](https://www.figma.com/community/file/1410386210865694868)
 
 **Tecnologias:**
 - HTML
@@ -66,24 +67,24 @@ Uma plataforma de biblioteca digital desenvolvida com abordagem **Mobile First**
 
 ---
 
-## 🎯 Conceitos Aplicados
+## Conceitos Aplicados
 
 Ao longo dos três projetos, foram aplicados os seguintes conceitos:
 
-- ✅ Estruturação semântica com HTML
-- ✅ Estilização com CSS puro
-- ✅ Flexbox para layouts flexíveis
-- ✅ CSS Grid para layouts avançados
-- ✅ Design responsivo
-- ✅ Abordagem Mobile First
-- ✅ Media queries para diferentes breakpoints
-- ✅ Pseudo-classes e pseudo-elementos CSS
-- ✅ Integração de bibliotecas externas (SwiperJS)
-- ✅ Interatividade básica
+- Estruturação semântica com HTML
+- Estilização com CSS puro
+- Flexbox para layouts flexíveis
+- CSS Grid para layouts avançados
+- Design responsivo
+- Abordagem Mobile First
+- Media queries para diferentes breakpoints
+- Pseudo-classes e pseudo-elementos CSS
+- Integração de bibliotecas externas (SwiperJS)
+- Interatividade básica
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 formacao-html-css/
@@ -95,7 +96,7 @@ formacao-html-css/
 
 ---
 
-## 🚀 Como Usar
+## Como Usar
 
 Cada projeto pode ser visualizado abrindo o arquivo `index.html` no navegador:
 
@@ -105,12 +106,12 @@ Cada projeto pode ser visualizado abrindo o arquivo `index.html` no navegador:
 
 ---
 
-## 💡 Aprendizados
+## Aprendizados
 
 Este repositório documenta a progressão no aprendizado de HTML e CSS, começando com conceitos básicos de layout (Flexbox) e evoluindo para aplicações mais complexas com Grid, JavaScript e design responsivo avançado.
 
 ---
 
-## 📧 Autor
+## Autor
 
-**Alfredo Diani** - Desenvolvedor em formação
+**Alfredo Diani**
